@@ -1,5 +1,5 @@
 ## I’m a developer of sorts ˶ᵔ ᵕ ᵔ˶
-Focus on web technology. Till now, I have acquired proficiency in HTML, CSS, JavaScript, Bootstrap, and Web design.
+Focus on web technology. Till now, I have acquired proficiency in HTML, CSS, JavaScript, Bootstrap, and responsive Web design.
 ## bout me
 - 🔭  I am currently learning React.
 
