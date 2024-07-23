@@ -6,7 +6,9 @@ Focus on web technology. Till now, I have acquired proficiency in HTML, CSS, Jav
 ## 📊 GitHub Stats:
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=bornsrss14&show_icons=true&theme=radical)
 ## Socials 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg)](https://linkedin.com/in/bornsrss) 
+<a href="https://linkedin.com/in/tu_usuario">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="30" height="30">
+</a>
 <!--
 **bornsrss14/bornsrss14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
